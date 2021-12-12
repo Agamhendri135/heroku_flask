@@ -1,1 +1,1 @@
-web:gunicorn app:app
+web:gunicorn Daun_CNN:app
